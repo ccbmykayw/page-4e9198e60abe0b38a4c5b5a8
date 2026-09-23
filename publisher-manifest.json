@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "80f1e4f3f1089f0b456ae249",
+  "owner": "ccbmykayw",
+  "repo": "page-4e9198e60abe0b38a4c5b5a8",
+  "title": "撸撸加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4e9198e60abe0b38a4c5b5a8",
+      "a": "撸撸加速器",
+      "b": "2027最新官网",
+      "entity": "撸撸加速器",
+      "brand": "撸撸加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "54c8071029a5412a367d1b7f972d24b210bb452782262f61231ba617d0216fd5",
+      "content": {
+        "primary_entity": "撸撸加速器",
+        "keyword1": "撸撸加速器",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 与路由器按设备类型选择客户端。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "依据设备数量与流量需求选定套餐后完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始选择适合的套餐",
+          "AI_DESCRIPTION": "，面向 Windows、macOS、Android、iOS 与路由器等设备，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB，适合 3 台设备轻度浏览；旗舰版每月 300GB，5 台设备，含 IPLC 专线游戏优化；团队版每月 1000GB，20 台设备，支持企业定制路由。按年付可分别以 ¥150、¥350、¥850 获得对应套餐，用户可结合设备数量与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从设备数量、流量大小与订阅周期三方面挑选套餐。",
+          "AI_FEATURES_TITLE": "按需求选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，年付价格分别为 ¥150、¥350、¥850。",
+          "AI_FEATURE_TITLE_1": "设备与流量",
+          "AI_FEATURE_TITLE_2": "节点与加速",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "撸撸加速器提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备，并按需提供流媒体解锁和游戏加速节点，满足日常浏览、跨境办公与团队协作等场景。",
+          "AI_HERO_SUBTITLE": "三档订阅灵活选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，20 台设备",
+          "AI_PLANS_INTRO": "比较基础版、旗舰版与团队版的流量、设备数与价格差异。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "结合同时在线设备数与每月流量，在基础版、旗舰版、团队版之间初步选定。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与网络环境满足条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅，完成连接配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "撸撸加速器套餐订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "撸撸加速器支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持 Windows、macOS、Android、iOS 等常见系统，选择对应客户端导入订阅即可，具体兼容版本以客户端文档为准。",
+          "AI_FAQ_QUESTION_2": "套餐之间的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版100GB流量、3台设备；旗舰版300GB流量、5台设备并含IPLC专线；团队版1000GB流量、20台设备，支持自定义路由。",
+          "AI_FAQ_QUESTION_3": "可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线，超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_4": "三个套餐年付均为月付乘以十，相当于省去两个月费用，长期使用更划算。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅？",
+          "AI_FAQ_ANSWER_5": "购买后获取订阅链接，在所选客户端中找到订阅导入功能，粘贴链接并更新即可使用，具体路径参考客户端文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfr87dezbd85ash2c.com",
+    "host": "xn--yfr87dezbd85ash2c.com"
+  },
+  "file_hashes": {
+    "index.html": "af29b1f7e23d4e4813bbf5a3bdc79f6c828d8c85ab6cca038dbea6ccd9a5cfba",
+    "sitemap.xml": "3523609a9b27974ae24e1feaad278a6cc92e82be8f2a188e702cd15839a93daf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f14b4dc87d9215f20a300084c857deffadfa636ff216a4b8d33a9adaa7d6fe1e",
+    "robots.txt": "15b95a487391937ac395f9c03395869f60f96031bd8fbc3e0766c1ffdc4bd141",
+    "9a79ce44eb2503981e87c1ae05eb9e6f.txt": "88d3316fb7d486993fd29618cfc183b6a1d83bc21786f5b9d3b151a109005d43"
+  },
+  "revision": "91be197a2c340480d9aec69b1eb723e620840c9b6120cf98f38de351e4383566"
+}
